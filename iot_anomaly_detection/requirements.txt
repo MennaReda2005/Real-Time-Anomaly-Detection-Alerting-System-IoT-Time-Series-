@@ -1,0 +1,7 @@
+kafka-python==2.0.2
+influxdb-client==1.36.0
+pandas==2.0.3
+numpy==1.24.3
+requests==2.31.0
+matplotlib==3.7.2
+confluent-kafka==2.2.0

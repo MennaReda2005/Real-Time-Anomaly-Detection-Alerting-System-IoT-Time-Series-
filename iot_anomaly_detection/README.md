@@ -25,7 +25,6 @@
 - [Troubleshooting](#-troubleshooting)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -332,17 +331,10 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📞 Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: renad1132005@gmail.com
+- **GitHub**: [@renadaa113](https://github.com/renadaa113)
 
 ---
 
