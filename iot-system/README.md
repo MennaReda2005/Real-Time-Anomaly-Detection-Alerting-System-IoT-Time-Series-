@@ -93,7 +93,7 @@ The anomaly detection engine is based on an **LSTM Autoencoder** trained exclusi
 
 - Python
 
-### Machine Learning
+### Libraries
 
 - TensorFlow
 - Keras
